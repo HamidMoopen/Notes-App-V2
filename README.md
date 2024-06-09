@@ -1,5 +1,5 @@
 # Notes-App-V2
-Second Notes App
+Second Version of Notes App
 
 Layout proposed by GPT:
 /notes-app
