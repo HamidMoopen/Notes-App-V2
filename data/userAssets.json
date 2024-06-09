@@ -1,0 +1,14 @@
+[
+    {
+    "id": "100001",
+    "email":"junaidbashi@gmail.com",
+    "password":"helloworld",
+    "accountType":"user"
+ },
+ {
+    "id": "100002",
+    "email":"hmoopen@gmail.com",
+    "password":"passcode",
+    "accountType":"user"
+ }
+]
